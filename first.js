@@ -1,1 +1,4 @@
-console.log("Hola mundo");
+async function main() {
+  console.log("Hola mundo");
+}
+main();
